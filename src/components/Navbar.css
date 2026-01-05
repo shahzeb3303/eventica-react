@@ -96,7 +96,20 @@
   transform: rotate(-45deg) translate(7px, -7px);
 }
 
+
 @media (max-width: 768px) {
+  .navbar {
+    padding: 0.6rem 0;
+  }
+
+  .nav-container {
+    padding: 0 1.5rem;
+  }
+
+  .nav-logo .logo-text {
+    font-size: 1.7rem;
+  }
+
   .menu-toggle {
     display: flex;
   }
@@ -125,7 +138,38 @@
     text-align: center;
   }
 
+  .nav-link {
+    font-size: 1rem;
+  }
+
   .nav-link::after {
     display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar {
+    padding: 0.5rem 0;
+  }
+
+  .nav-container {
+    padding: 0 1rem;
+  }
+
+  .nav-logo .logo-text {
+    font-size: 1.5rem;
+  }
+
+  .menu-toggle span {
+    width: 22px;
+    height: 2.5px;
+  }
+
+  .nav-menu li {
+    padding: 0.8rem 1.5rem;
+  }
+
+  .nav-link {
+    font-size: 0.95rem;
   }
 }

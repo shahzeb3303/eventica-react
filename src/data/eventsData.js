@@ -6,7 +6,7 @@ export const eventsData = [
     time: "7:00 PM",
     location: "Parkview City, Islamabad",
     description: "Live music night featuring top Pakistani artists. Experience an unforgettable evening of melody and rhythm.",
-    image: "/images/event-concert.jpg",
+    image: "/eventica-react/images/event-concert.jpg",
     category: "Music"
   },
   {
@@ -16,7 +16,7 @@ export const eventsData = [
     time: "11:00 AM",
     location: "Greater Iqbal Park, Lahore",
     description: "Explore the rich culinary heritage of Pakistan. Taste authentic dishes from across the country.",
-    image: "/images/event-food.jpg",
+    image: "/eventica-react/images/event-food.jpg",
     category: "Food"
   },
   {
@@ -26,7 +26,7 @@ export const eventsData = [
     time: "9:00 AM",
     location: "Expo Centre, Karachi",
     description: "Join industry leaders and innovators for a day of technology insights and networking opportunities.",
-    image: "/images/event-tech.jpg",
+    image: "/eventica-react/images/event-tech.jpg",
     category: "Technology"
   },
   {
@@ -36,7 +36,7 @@ export const eventsData = [
     time: "10:00 AM",
     location: "Pakistan National Council of Arts, Islamabad",
     description: "Discover contemporary and traditional Pakistani art. Meet talented artists and explore unique artworks.",
-    image: "/images/event-art.jpg",
+    image: "/eventica-react/images/event-art.jpg",
     category: "Art"
   },
   {
@@ -46,7 +46,7 @@ export const eventsData = [
     time: "6:00 PM",
     location: "Faisal Mosque, Islamabad",
     description: "A beautiful traditional wedding ceremony at the iconic Faisal Mosque. Witness elegance and culture.",
-    image: "/images/event-nikkah.jpg",
+    image: "/eventica-react/images/event-nikkah.jpg",
     category: "Wedding"
   }
 ];

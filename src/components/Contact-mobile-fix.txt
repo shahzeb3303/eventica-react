@@ -1,0 +1,137 @@
+@media (max-width: 768px) {
+  .contact-section {
+    padding: 4rem 1rem;
+  }
+
+  .contact-header {
+    margin-bottom: 3rem;
+  }
+
+  .contact-content {
+    gap: 2.5rem;
+  }
+
+  .contact-info,
+  .contact-form-wrapper {
+    padding: 2rem;
+  }
+
+  .info-title {
+    font-size: 1.7rem;
+  }
+
+  .info-description {
+    font-size: 1rem;
+  }
+
+  .info-items {
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .submit-btn {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-section {
+    padding: 3rem 0.8rem;
+  }
+
+  .contact-header {
+    margin-bottom: 2rem;
+  }
+
+  .section-title {
+    font-size: 1.8rem;
+  }
+
+  .section-subtitle {
+    font-size: 1rem;
+  }
+
+  .contact-content {
+    gap: 2rem;
+  }
+
+  .contact-info,
+  .contact-form-wrapper {
+    padding: 1.5rem;
+    border-radius: 15px;
+  }
+
+  .info-title {
+    font-size: 1.5rem;
+  }
+
+  .info-description {
+    font-size: 0.95rem;
+    margin-bottom: 2rem;
+  }
+
+  .info-items {
+    gap: 1.3rem;
+    margin-bottom: 2rem;
+  }
+
+  .info-item {
+    gap: 1rem;
+  }
+
+  .info-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .info-icon svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .info-item h4 {
+    font-size: 1rem;
+  }
+
+  .info-item p {
+    font-size: 0.9rem;
+  }
+
+  .social-links {
+    gap: 1rem;
+  }
+
+  .social-link {
+    width: 40px;
+    height: 40px;
+  }
+
+  .social-link svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .contact-form {
+    gap: 1.2rem;
+  }
+
+  .form-group label {
+    font-size: 0.95rem;
+  }
+
+  .form-group input,
+  .form-group textarea {
+    padding: 0.9rem 1rem;
+    font-size: 0.95rem;
+  }
+
+  .form-group textarea {
+    min-height: 100px;
+  }
+
+  .submit-btn {
+    padding: 0.9rem;
+    font-size: 0.95rem;
+  }
+}
